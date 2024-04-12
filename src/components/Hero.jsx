@@ -8,12 +8,12 @@ function Hero() {
             <img src={profilepic} alt="dog" className='rounded-full shadow-md shadow-[#6384a2]'/>
         </div>
         <div className='px-5 my-auto'>
-            <h1 className="text-[#314c6f] text-4xl sm:text-5xl lg:text-8xl font-extrabold">
+            <h1 className="bg-gradient-to-b from-[#314c6f] to-[#1f3c5c] text-transparent bg-clip-text text-4xl sm:text-5xl lg:text-8xl font-extrabold">
                 <span>Hello,</span>
                 <br />
                 <span>I'm Iulian</span>
             </h1>
-            <p className='text-black sm:text-lg my-6 lg:text-xl'>
+            <p className='text-[#1f3c5c] sm:text-lg my-6 lg:text-xl'>
                 Front-end web developer with a passion for learning and constantly looking for new challenges and opportunities.
             </p>
         </div>
