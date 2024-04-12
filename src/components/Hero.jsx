@@ -14,9 +14,10 @@ function Hero() {
                 <span>I'm Iulian</span>
             </h1>
             <p className='text-black sm:text-lg my-6 lg:text-xl'>
-                This is a section about me where I tell some details
+                Front-end web developer with a passion for learning and constantly looking for new challenges and opportunities.
             </p>
         </div>
+        
     </div>   
   )
 }
