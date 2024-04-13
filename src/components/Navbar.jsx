@@ -7,7 +7,7 @@ function Navbar() {
             <h1 className='text-4xl font-bold'>S.I</h1>
             <ul className="flex flex-row ">
                 <li className='mx-4 px-4 py-2  hover:bg-[#6384a2] rounded-full font-bold active:bg-[#1f3c5c] hover:transition-all duration-300'>About</li>
-                <li className='mx-4 px-4 py-2  hover:bg-[#6384a2] rounded-md font-bold active:bg-[#1f3c5c] hover:transition-all duration-300'>Projects</li>
+                <li className='mx-4 px-4 py-2  hover:bg-[#6384a2] rounded-full font-bold active:bg-[#1f3c5c] hover:transition-all duration-300'>Projects</li>
             </ul>
         </div>
     </div>
