@@ -7,7 +7,7 @@ import { SiTailwindcss } from "react-icons/si";
 
 function About() {
   return (
-    <div className='bg-gradient-to-b from-[#1f3c5c] to-[#314c6f] max-w-[80%] lg:max-w-[1200px] h-auto mx-auto text-[#f9f4e8] flex flex-col  items-center my-8 py-8 rounded-3xl divide-y'>
+    <div id='about' className='bg-gradient-to-b from-[#1f3c5c] to-[#314c6f] max-w-[80%] lg:max-w-[1200px] h-auto  text-[#f9f4e8] flex flex-col  items-center my-8 py-8 rounded-3xl divide-y'>
         <div className='w-[75%] md:w-[50%]  flex flex-col items-center py-8 '>
             <h3 className='text-3xl font-extrabold mb-8'>About me</h3>
             <p className='text-center text-lg'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Similique eveniet adipisci tenetur esse dolorem, omnis necessitatibus nobis perferendis, eaque optio ut? Minus architecto eius iusto quisquam reiciendis quod natus eaque</p>
