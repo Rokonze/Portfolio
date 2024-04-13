@@ -5,13 +5,13 @@ import { FaAngleDoubleDown } from "react-icons/fa";
 function Hero() {
   return (
     <div className="flex flex-col items-center">
-        <div className="flex flex-col md:flex-row justify-around max-w-[1200px] h-[80vh] mx-auto py-4 ">
+        <div className="flex flex-col lg:flex-row items-center text-center lg:text-start  max-w-[80%] lg:max-w-[1200px] h-[80vh] mx-auto py-4 ">
             <div className=" my-auto mx-auto w-[400px] h-auto lg:w-[500px] pr-6">
                 <img src={profilepic} alt="dog" className='rounded-full shadow-md shadow-[#6384a2]'/>
             </div>
             <div className='px-5 my-auto'>
-                <h1 className="bg-gradient-to-b from-[#314c6f] to-[#1f3c5c] text-transparent bg-clip-text text-4xl sm:text-5xl lg:text-8xl font-extrabold">
-                    <span>Hello,</span>
+                <h1 className="bg-gradient-to-b from-[#314c6f] to-[#1f3c5c] text-transparent bg-clip-text text-4xl sm:text-5xl md:text-6xl lg:text-8xl font-extrabold">
+                    <span className='text-start'>Hi,</span>
                     <br />
                     <span>I'm Iulian</span>
                 </h1>
