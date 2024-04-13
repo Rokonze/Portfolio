@@ -6,7 +6,7 @@ function Hero() {
   return (
     <div className="flex flex-col items-center">
         <div className="flex flex-col lg:flex-row items-center text-center lg:text-start  max-w-[80%] lg:max-w-[1200px] h-[80vh] mx-auto py-4 ">
-            <div className=" my-auto mx-auto w-[300px] sm:w-[400px] h-auto lg:w-[500px] lg:pr-6">
+            <div className=" my-auto mx-auto w-[300px] sm:w-[350px] h-auto lg:w-[500px] lg:pr-6">
                 <img src={profilepic} alt="dog" className='rounded-full shadow-md shadow-[#6384a2]'/>
             </div>
             <div className='px-5 my-auto'>
