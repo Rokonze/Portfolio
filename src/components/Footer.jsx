@@ -6,7 +6,7 @@ import { FiDownload } from "react-icons/fi";
 
 function Footer() {
   return (
-    <div id='contact' className='w-[100%]'>
+    <div id='contact' className='w-[100%] mb-8'>
         <div className=" max-w-[80%] lg:max-w-[1200px] mt-6 rounded-full  mx-auto    text-[#f9f4e8]  py-6  shadow-xl items-center bg-gradient-to-b from-[#1f3c5c] to-[#314c6f]">
             
             <ul className="flex flex-row justify-center ">
