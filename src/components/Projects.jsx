@@ -18,7 +18,7 @@ function Projects() {
             
            
             <div className='flex flex-col lg:max-w-[40%] px-2 mx-2 items-center text-center'>
-                <p className='text-3xl text-center font-extrabold  pt-8 hover:underline'>Github User Finder</p>
+                <a href='https://github-user-finder-i.netlify.app/' target='_blank' rel="noopener noreferrer" className='text-3xl text-center font-extrabold  pt-8 hover:underline'>Github User Finder</a>
                 <p className='py-4 '>Project done with the Github API. Allows you to find any Github user and see a detailed page about him/her.</p>
                 <ul className='flex flex-wrap flex-row  justify-center'>
                     <li className='p-2 m-2 flex flex-col items-center'>
@@ -48,7 +48,7 @@ function Projects() {
             <img src={shoppingList} alt="Github User Finder" className='my-auto h-auto w-[500px] border-solid border-8 border-[#1f3c5c] mx-2 rounded-3xl' />
            
             <div className='flex flex-col lg:max-w-[40%] px-2 mx-2 items-center text-center'>
-                <h3 className='text-3xl font-extrabold py-4 hover:underline'>Shopping List</h3>
+            <a href='https://steady-narwhal-78edfb.netlify.app/' target='_blank' rel="noopener noreferrer" className='text-3xl text-center font-extrabold  pt-8 hover:underline'>Shopping List</a>
                 <p className='py-4'>Project similar to a ToDo List with vanilla JS and ability to add, remove and edit items stored in localStorage.</p>
                 <ul className='flex flex-wrap flex-row  justify-center'>
                     <li className='p-2 m-2 flex flex-col items-center'>

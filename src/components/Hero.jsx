@@ -18,6 +18,7 @@ function Hero() {
                 <p className='text-[#1f3c5c] sm:text-lg my-6 lg:text-xl'>
                     Front-end web developer with a passion for learning and constantly looking for new challenges and opportunities.
                 </p>
+                
             </div>
         </div>   
         <div className='border-solid border-2 border-[#314c6f] rounded-full p-2 animate-bounce text-2xl'>

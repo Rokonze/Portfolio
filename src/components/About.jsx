@@ -10,7 +10,8 @@ function About() {
     <div id='about' className='bg-gradient-to-b from-[#1f3c5c] to-[#314c6f] max-w-[80%] lg:max-w-[1200px] h-auto  text-[#f9f4e8] flex flex-col  items-center my-8 py-8 rounded-3xl divide-y'>
         <div className='w-[75%] md:w-[50%]  flex flex-col items-center py-8 '>
             <h3 className='text-3xl font-extrabold mb-8'>About me</h3>
-            <p className='text-center text-lg'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Similique eveniet adipisci tenetur esse dolorem, omnis necessitatibus nobis perferendis, eaque optio ut? Minus architecto eius iusto quisquam reiciendis quod natus eaque</p>
+            <p className='text-center text-lg'>Student at Transylvania University of Brasov, pursuing a Bachelor's dregree at distance from Bucharest.</p>
+            <p className="text-center text-lg">In addition to being the career path I want to follow, programming for me is also a hobby. The satisfaction of making more and more complex websites drives me to keep creating and exploring.</p>
         </div>
         
         <div className='w-[80%] flex flex-col items-center py-8'>
