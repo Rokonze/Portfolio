@@ -15,7 +15,7 @@ function About() {
         
         <div className='w-[80%] flex flex-col items-center py-8'>
             <h3 className='text-3xl font-extrabold mb-8'>Skills</h3>
-            <ul className='flex flex-wrap flex-col sm:flex-row justify-center'>
+            <ul className='flex flex-wrap flex-row  justify-center'>
                 <li className='p-2 m-2 flex flex-col items-center'>
                     <p>HTML</p>    
                     <FaHtml5 className='text-6xl'/>
