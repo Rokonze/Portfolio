@@ -3,8 +3,8 @@ import React from 'react'
 function Navbar() {
   return (
     <div className='w-[100%]'>
-        <div className=" max-w-[80%] lg:max-w-[1200px] mt-6 rounded-full  mx-auto flex flex-row justify-around   text-[#f9f4e8]  py-6  shadow-xl items-center bg-gradient-to-b from-[#1f3c5c] to-[#314c6f]">
-            <h1 className='text-2xl lg:text-4xl font-bold'>S.I</h1>
+        <div className=" max-w-[80%] lg:max-w-[1200px] mt-6 rounded-full  mx-auto flex flex-row justify-center md:justify-around   text-[#f9f4e8]  py-6  shadow-xl items-center bg-gradient-to-b from-[#1f3c5c] to-[#314c6f]">
+            <h1 className='text-2xl lg:text-4xl w-0 h-0 md:w-auto md:h-auto font-bold invisible md:visible'>S.I.</h1>
             <ul className="flex flex-row ">
                 
                 <a href="#about">
