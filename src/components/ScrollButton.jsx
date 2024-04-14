@@ -30,7 +30,7 @@ const ScrollButton = () =>{
   return ( 
     <button className='fixed bottom-[20%] right-[1%] sm:bottom-[10%] sm:right-[5%] h-auto   z-10'> 
      <AiOutlineArrowUp onClick={scrollToTop}  
-     style={{display: visible ? 'inline' : 'none'}} className='text-3xl border-solid border-2 border-[#1f3c5c] p-1 box-content rounded-xl'/> 
+     style={{display: visible ? 'inline' : 'none'}} className='text-3xl border-solid border-2 border-[#1f3c5c] p-0.5 sm:p-1 box-content rounded-xl'/> 
     </button> 
   ); 
 } 
