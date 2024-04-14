@@ -8,19 +8,19 @@ function Navbar() {
             <ul className="flex flex-row ">
                 
                 <a href="#about">
-                    <li className='mx-1 px-2 lg:mx-4 lg:px-4 py-2  hover:bg-[#6384a2] rounded-full font-bold sm:active:bg-[#1f3c5c] hover:transition-all duration-300'>
+                    <li className='mx-1 px-2 lg:mx-4 lg:px-4 py-2  sm:hover:bg-[#6384a2] rounded-full font-bold active:bg-[#1f3c5c] hover:transition-all duration-300'>
                       About
                     </li>
                 </a>
                 
                 <a href="#projects">
-                    <li className='mx-1 px-2 lg:mx-4 lg:px-4 py-2  hover:bg-[#6384a2] rounded-full font-bold sm:active:bg-[#1f3c5c] hover:transition-all duration-300'>
+                    <li className='mx-1 px-2 lg:mx-4 lg:px-4 py-2  sm:hover:bg-[#6384a2] rounded-full font-bold active:bg-[#1f3c5c] hover:transition-all duration-300'>
                       Projects
                     </li>
                 </a>
 
                 <a href="#contact">
-                    <li className='mx-1 px-2 lg:mx-4 lg:px-4 py-2  hover:bg-[#6384a2] rounded-full font-bold sm:active:bg-[#1f3c5c] hover:transition-all duration-300'>
+                    <li className='mx-1 px-2 lg:mx-4 lg:px-4 py-2  sm:hover:bg-[#6384a2] rounded-full font-bold active:bg-[#1f3c5c] hover:transition-all duration-300'>
                       Contact
                     </li>
                 </a>
